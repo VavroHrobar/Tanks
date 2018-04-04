@@ -1,0 +1,84 @@
+html, body{
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+	background-size: cover;
+  background-color: #1a1a1a;
+}
+
+@media only screen and (max-width: 640px) {
+img{
+  width: 150px;
+  height: 75px;
+}
+}
+
+h2{
+  color: white;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+h3{
+  color: white;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+p{
+  font-size: 108%;
+  color: white;
+  margin-right: 2%;
+  margin-left: 2%;
+}
+
+.bottom-space{
+  margin-bottom: 7%;
+}
+
+.Text-position2{
+  color: white;
+  text-align: center;
+  margin-top: 5%;
+}
+
+.Text-position{
+  color: white;
+  text-align: center;
+}
+
+.img-border{
+border: 3px solid black;
+}
+
+.img-float1{
+  float: left;
+}
+
+.img-float2{
+  float: right;
+  margin-bottom: 2%;
+}
+
+.h3-right{
+  text-align: right;
+  margin-right: 5%;
+}
+
+nav{
+  margin-top:3%;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+footer {
+  color: white;
+  position: relative;
+	text-align: center;
+  margin-left: 21%;
+	top: 28%;
+}
+
+img{
+  margin-right: 5%;
+}
