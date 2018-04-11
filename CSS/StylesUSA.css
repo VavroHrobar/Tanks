@@ -4,6 +4,12 @@ html, body{
   background-repeat: no-repeat;
 	background-size: cover;
   background-color: #1a1a1a;
+  margin: 0;
+  padding: 0;
+}
+
+a{
+    text-decoration: none;
 }
 
 @media only screen and (max-width: 640px) {
@@ -75,7 +81,6 @@ footer {
   color: white;
   position: relative;
 	text-align: center;
-  margin-left: 21%;
 	top: 28%;
 }
 
